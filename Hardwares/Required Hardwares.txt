@@ -1,0 +1,22 @@
+Components Required:
+
+
+1.	4 Wheel Car Chassis or Custom Chassis
+2.	L298n Motor Driver
+3.	Arduino Uno
+4.	Arduino Sensor Shield V5.0
+5.	HC-05 Bluetooth Module
+6.	IR Sensor
+7.	Ultrasonic sensor SC-SR04
+8.	5 Array Tracker Sensor
+9.	DHT11 Temperature and Humidity Sensor
+10.	Servo Motor SG90
+11.	Buzzer module
+12.	ESP32s-Cam module
+13.	Battery Holder
+14.	18650 3.7V Battery
+15.	Connecting Wires
+16.	Switch
+17.	Soldering gun
+18.	Glue gun
+19.	Android Phone
