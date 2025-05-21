@@ -156,6 +156,10 @@ Robo-Car/
 
 ## 💡 Circuit Connections
 
+### Circuit Diagram:
+
+<img src="Circuits and Semantics/circuit_image.png" width="88%">
+
 All hardware connections (Arduino, sensors, motor driver, Bluetooth, etc.) are documented in the following file:
 
 **[🔌Circuit_Connections.pdf](Circuits%20and%20Semantics/Circuit%20Connections.pdf)**
